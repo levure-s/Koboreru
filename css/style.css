@@ -17,6 +17,10 @@ header {
   background: linear-gradient(to bottom, #b12d30, #fcd4ae);
 }
 
+.album-info {
+  padding-top: 1em;
+}
+
 h1 {
   font-size: 2.5rem;
   color: #5d1214;
