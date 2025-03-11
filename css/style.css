@@ -61,7 +61,7 @@ h2.caption::after {
 
 .back_white {
   background: #fff;
-  padding: 20px;
+  padding: 40px 20px;
   border-radius: 10px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
@@ -87,7 +87,7 @@ p.quote {
 }
 
 .track-container {
-  width: 50%;
+  width: 30%;
 }
 
 .tracklist {
